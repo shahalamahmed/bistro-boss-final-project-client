@@ -1,4 +1,4 @@
-import FoodCard from "../../../components/SectionTitle/FoodCard/FoodCard";
+import FoodCard from "../../../components/FoodCard/FoodCard";
 
 
 const OrderTab = ({ items }) => {
